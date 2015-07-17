@@ -10,6 +10,9 @@ from the fact that it is a transition area between the two folders (repository a
 
 3. How can you use the staging area to make sure you have one commit per logical
 change?
+By using the diff feature in the staging area to compare different versions (files) of 
+a given project, we can verify if those files, based on changes they are subject to, 
+represent a logical change before making a commit.
 
 4. What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
