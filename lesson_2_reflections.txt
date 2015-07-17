@@ -1,4 +1,7 @@
 1. What happens when you initialize a repository? Why do you need to do it?
+A repository is created after it is initialized.  it is needed to be able to have 
+a place (directory) where to conduct a project or coding experiment of all sorts, 
+and keep track of all changes occuring during the project execution.
 
 2. How is the staging area different from the working directory and the repository?
 What value do you think it offers?
