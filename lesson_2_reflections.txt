@@ -16,6 +16,11 @@ represent a logical change before making a commit.
 
 4. What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+In dealing with complex projects where we have a plethora of changes of different kinds,
+branches can help to make matters clear and less confused; in fact branches represents 
+subgroups withing a larger group (project).  
+Branches would help in the way one can create them to perform some changes, and delete 
+them if finish.
 
 5. How do the diagrams help you visualize the branch structure?
 
