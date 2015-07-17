@@ -23,6 +23,8 @@ Branches would help in the way one can create them to perform some changes, and 
 them if finish.
 
 5. How do the diagrams help you visualize the branch structure?
+Diagrams present a clear picture of different branches in the repository; it allows to avoid 
+ambiguity, and see how branches are related to each other in time.  One can notice all evolutions in the project at any date and time.
 
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
