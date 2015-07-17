@@ -33,3 +33,5 @@ in both branches is working toward reaching the project's goals.
 
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Git automatic merging is good for situations where there are no merging conflicts, 
+but in case of conflicts it is better to use the manual merging.
