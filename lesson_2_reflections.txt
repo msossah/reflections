@@ -28,6 +28,8 @@ ambiguity, and see how branches are related to each other in time.  One can noti
 
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is a branch that contains those 2 branches combined in terms of what 
+in both branches is working toward reaching the project's goals.
 
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
